@@ -1,4 +1,4 @@
-# Привет, меня зовут Николай! 👋
+# Привет! 👋
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -7,7 +7,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/gells0nd" target="_blank">
+    <a href="https://t.me/IncertoDev" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
